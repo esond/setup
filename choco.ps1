@@ -5,7 +5,6 @@ choco feature enable -n allowGlobalConfirmation
 #Install Chocolatey packages
 choco install 1password
 choco install 7zip
-choco install avastfreeantivirus
 choco install brave
 choco install bulkrenameutility
 choco install ccleaner
