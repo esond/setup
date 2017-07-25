@@ -1,44 +1,45 @@
 #Install Chocolatey (https://chocolatey.org/)
-Set-ExecutionPolicy RemoteSigned
 Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+choco feature enable -n allowGlobalConfirmation
 
 #Install Chocolatey packages
-choco install 1password -y
-choco install 7zip -y
-choco install avastfreeantivirus -y
-choco install brave -y
-choco install bulkrenameutility -y
-choco install ccleaner -y
-choco install ConEmu -y
-choco install DotNet3.5 -y
-choco install DotNet4.5 -y
-choco install DotNet4.5.2 -y
-choco install DotNet4.6 -y
-choco install DotNet4.6 -y
-choco install DotNet4.6.2 -y
-choco install dotnetcore -y
-choco install dropbox -y
-choco install Firefox -y
-choco install foxitreader -y
-choco install git -y
-choco install linqpad5 -y
-choco install nuget.commandline -y
-choco install nunit-console-runner -y
-choco install OpenOffice -y
-choco install poshgit -y
-choco install ReSharper -y
-choco install Slack -y
-choco install Spotify -y
-choco install sql-server-management-studio -y
-choco install steam -y
-choco install sublimetext3 -y
-choco install utorrent -y
-choco install VisualStudio2017Enterprise -y
-choco install VisualStudioCode -y
-choco install vlc -y
-choco install vscode-csharp -y
-choco install vscode-csharpextensions -y
-choco install vscode-mssql -y
-choco install vscode-cake -y
-choco install vscode-gitignore -y
-choco install vscode-gitattributes -y
+choco install 1password
+choco install 7zip
+choco install avastfreeantivirus
+choco install brave
+choco install bulkrenameutility
+choco install ccleaner
+choco install ConEmu
+choco install DotNet3.5
+choco install DotNet4.5
+choco install DotNet4.5.2
+choco install DotNet4.6
+choco install DotNet4.6
+choco install DotNet4.6.2
+choco install dotnetcore
+choco install dropbox
+choco install Firefox
+choco install foxitreader
+choco install git
+choco install grepwin
+choco install linqpad5
+choco install nuget.commandline
+choco install nunit-console-runner
+choco install OpenOffice
+choco install poshgit
+choco install ReSharper
+choco install Slack
+choco install Spotify
+choco install sql-server-management-studio
+choco install steam
+choco install sublimetext3
+choco install utorrent
+choco install VisualStudio2017Enterprise
+choco install VisualStudioCode
+choco install vlc
+choco install vscode-csharp
+choco install vscode-csharpextensions
+choco install vscode-mssql
+choco install vscode-cake
+choco install vscode-gitignore
+choco install vscode-gitattributes
