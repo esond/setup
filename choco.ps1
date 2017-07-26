@@ -36,9 +36,10 @@ choco install utorrent
 choco install VisualStudio2017Enterprise
 choco install VisualStudioCode
 choco install vlc
+choco install vscode-cake
 choco install vscode-csharp
 choco install vscode-csharpextensions
-choco install vscode-mssql
-choco install vscode-cake
 choco install vscode-gitignore
 choco install vscode-gitattributes
+choco install vscode-mssql
+choco install vscode-powershell
