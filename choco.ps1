@@ -17,6 +17,7 @@ choco install DotNet4.6
 choco install DotNet4.6.2
 choco install dotnetcore
 choco install dropbox
+choco install fiddler4
 choco install Firefox
 choco install foxitreader
 choco install git
