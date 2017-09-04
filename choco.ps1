@@ -5,6 +5,7 @@ choco feature enable -n allowGlobalConfirmation
 #Install Chocolatey packages
 choco install 1password
 choco install 7zip
+choco install baretail
 choco install brave
 choco install bulkrenameutility
 choco install ccleaner
@@ -16,6 +17,7 @@ choco install DotNet4.6
 choco install DotNet4.6
 choco install DotNet4.6.2
 choco install dotnetcore
+choco install dotnetcore-sdk
 choco install dropbox
 choco install fiddler4
 choco install Firefox
@@ -24,7 +26,6 @@ choco install git
 choco install grepwin
 choco install linqpad5
 choco install nuget.commandline
-choco install nunit-console-runner
 choco install OpenOffice
 choco install poshgit
 choco install ReSharper
