@@ -8,7 +8,6 @@ choco install 7zip
 choco install baretail
 choco install brave
 choco install bulkrenameutility
-choco install ccleaner
 choco install ConEmu
 choco install DotNet3.5
 choco install DotNet4.5
