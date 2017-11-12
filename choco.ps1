@@ -8,6 +8,7 @@ choco install 7zip
 choco install baretail
 choco install brave
 choco install bulkrenameutility
+choco install ccleaner
 choco install ConEmu
 choco install DotNet3.5
 choco install DotNet4.5
@@ -15,6 +16,7 @@ choco install DotNet4.5.2
 choco install DotNet4.6
 choco install DotNet4.6
 choco install DotNet4.6.2
+choco install dotnet4.7
 choco install dotnetcore
 choco install dotnetcore-sdk
 choco install dropbox
@@ -24,6 +26,7 @@ choco install foxitreader
 choco install git
 choco install grepwin
 choco install linqpad5
+choco install NSwagStudio
 choco install nuget.commandline
 choco install OpenOffice
 choco install poshgit
@@ -33,7 +36,6 @@ choco install Spotify
 choco install sql-server-management-studio
 choco install steam
 choco install sublimetext3
-choco install utorrent
 choco install VisualStudio2017Enterprise
 choco install VisualStudioCode
 choco install vlc
@@ -44,3 +46,4 @@ choco install vscode-gitignore
 choco install vscode-gitattributes
 choco install vscode-mssql
 choco install vscode-powershell
+choco install windows-sdk-10
