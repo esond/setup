@@ -3,30 +3,26 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://cho
 choco feature enable -n allowGlobalConfirmation
 
 #Install Chocolatey packages
-choco upgrade 1password
 choco upgrade 7zip
 choco upgrade baretail
 choco upgrade brave
 choco upgrade bulkrenameutility
 choco upgrade ccleaner
 choco upgrade ConEmu
-choco upgrade DotNet3.5
-choco upgrade DotNet4.5
 choco upgrade DotNet4.5.2
-choco upgrade DotNet4.6
 choco upgrade DotNet4.6
 choco upgrade DotNet4.6.2
 choco upgrade dotnet4.7
+choco upgrade dotnet4.7.1
 choco upgrade dotnetcore
 choco upgrade dotnetcore-sdk
 choco upgrade dropbox
-choco upgrade fiddler4
 choco upgrade Firefox
 choco upgrade foxitreader
 choco upgrade git
 choco upgrade grepwin
+choco upgrade iisexpress
 choco upgrade linqpad5
-choco upgrade NSwagStudio
 choco upgrade nuget.commandline
 choco upgrade OpenOffice
 choco upgrade poshgit
@@ -44,6 +40,8 @@ choco upgrade vscode-csharp
 choco upgrade vscode-csharpextensions
 choco upgrade vscode-gitignore
 choco upgrade vscode-gitattributes
+choco upgrade vscode-icons
+choco upgrade vscode-markdownlint
 choco upgrade vscode-mssql
 choco upgrade vscode-powershell
-choco upgrade windows-sdk-10
+choco upgrade windows-sdk-10.1
