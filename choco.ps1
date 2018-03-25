@@ -25,6 +25,7 @@ choco upgrade iisexpress
 choco upgrade linqpad5
 choco upgrade nuget.commandline
 choco upgrade OpenOffice
+choco upgrade picotorrent
 choco upgrade poshgit
 choco upgrade ReSharper
 choco upgrade Slack
