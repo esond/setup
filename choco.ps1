@@ -3,46 +3,45 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://cho
 choco feature enable -n allowGlobalConfirmation
 
 #Install Chocolatey packages
-choco upgrade 7zip
-choco upgrade baretail
-choco upgrade brave
-choco upgrade bulkrenameutility
-choco upgrade ccleaner
-choco upgrade ConEmu
-choco upgrade DotNet4.5.2
-choco upgrade DotNet4.6
-choco upgrade DotNet4.6.2
-choco upgrade dotnet4.7
-choco upgrade dotnet4.7.1
-choco upgrade dotnetcore
-choco upgrade dotnetcore-sdk
-choco upgrade dropbox
-choco upgrade Firefox
-choco upgrade foxitreader
-choco upgrade git
-choco upgrade grepwin
-choco upgrade iisexpress
-choco upgrade linqpad5
-choco upgrade nuget.commandline
-choco upgrade OpenOffice
-choco upgrade picotorrent
-choco upgrade poshgit
-choco upgrade ReSharper
-choco upgrade Slack
-choco upgrade Spotify
-choco upgrade sql-server-management-studio
-choco upgrade steam
-choco upgrade sublimetext3
-choco upgrade VisualStudio2017Enterprise
-choco upgrade VisualStudioCode
-choco upgrade vlc
-choco upgrade vscode-cake
-choco upgrade vscode-csharp
-choco upgrade vscode-csharpextensions
-choco upgrade vscode-gitignore
-choco upgrade vscode-gitattributes
-choco upgrade vscode-icons
-choco upgrade vscode-markdownlint
-choco upgrade vscode-mssql
-choco upgrade vscode-powershell
-choco upgrade windows-sdk-10.1
+cup 7zip
+cup baretail
+cup brave
+cup bulkrenameutility
+cup ccleaner
+cup ConEmu
+cup DotNet4.5.2
+cup DotNet4.6
+cup DotNet4.6.2
+cup dotnet4.7
+cup dotnet4.7.1
+cup dotnetcore
+cup dotnetcore-sdk
+cup dropbox
+cup Firefox
+cup foxitreader
+cup git
+cup grepwin
+cup iisexpress
+cup linqpad5
+cup nuget.commandline
+cup OpenOffice
+cup poshgit
+cup ReSharper
+cup Slack
+cup Spotify
+cup sql-server-management-studio
+cup steam
+cup sublimetext3
+cup VisualStudio2017Enterprise
+cup VisualStudioCode
+cup vlc
+cup vscode-cake
+cup vscode-csharp
+cup vscode-csharpextensions
+cup vscode-gitignore
+cup vscode-gitattributes
+cup vscode-icons
+cup vscode-markdownlint
+cup vscode-mssql
+cup vscode-powershell
+cup windows-sdk-10.1
