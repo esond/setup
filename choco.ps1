@@ -9,6 +9,7 @@ choco feature enable -n allowGlobalConfirmation
 cup 1Password
 cup 7zip
 cup azure-cli
+cup adobereader
 cup baretail
 cup bleachbit
 cup bulkrenameutility
@@ -32,7 +33,7 @@ cup linqpad5
 cup nuget.commandline
 cup microsoftazurestorageexplorer
 cup Office365Business
-cup Picotorrent
+cup qbittorrent
 cup poshgit
 cup postman
 cup ReSharper
@@ -51,4 +52,3 @@ cup vscode-icons
 cup vscode-markdownlint
 cup vscode-mssql
 cup vscode-powershell
-cup windows-sdk-10.1
