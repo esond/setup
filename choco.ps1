@@ -32,7 +32,7 @@ cup iTunes
 cup linqpad5
 cup nuget.commandline
 cup microsoftazurestorageexplorer
-cup Office365Business
+cup Office365HomePremium
 cup qbittorrent
 cup poshgit
 cup postman
