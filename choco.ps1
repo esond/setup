@@ -11,7 +11,6 @@ cup 7zip
 cup azure-cli
 cup adobereader
 cup baretail
-cup bleachbit
 cup bulkrenameutility
 cup chocolateygui
 cup ConEmu
@@ -40,7 +39,7 @@ cup ReSharper
 cup Spotify
 cup sql-server-management-studio
 cup steam
-cup visualstudio2017-installer
+cup visualstudio2019community
 cup VisualStudioCode
 cup vlc
 cup vscode-cake
