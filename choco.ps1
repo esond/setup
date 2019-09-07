@@ -24,7 +24,7 @@ cup Firefox
 cup git
 cup GoogleChrome
 cup grepwin
-cup insomnia-rest-client
+cup insomnia-rest-api-client
 cup iTunes
 cup linqpad5
 cup nordvpn
